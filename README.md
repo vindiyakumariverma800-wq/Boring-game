@@ -1,0 +1,2 @@
+# Boring-game
+only boring
